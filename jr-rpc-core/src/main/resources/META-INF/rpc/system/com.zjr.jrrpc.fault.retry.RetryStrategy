@@ -1,0 +1,2 @@
+no=com.zjr.jrrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.zjr.jrrpc.fault.retry.FixedIntervalRetryStrategy
