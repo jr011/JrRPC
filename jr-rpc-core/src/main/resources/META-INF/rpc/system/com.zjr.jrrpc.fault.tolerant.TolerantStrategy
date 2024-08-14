@@ -1,4 +1,0 @@
-failBack=com.zjr.jrrpc.fault.tolerant.FailBackTolerantStrategy
-failFast=com.zjr.jrrpc.fault.tolerant.FailFastTolerantStrategy
-failOver=com.zjr.jrrpc.fault.tolerant.FailOverTolerantStrategy
-failSafe=com.zjr.jrrpc.fault.tolerant.FailSafeTolerantStrategy

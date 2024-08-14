@@ -1,3 +1,0 @@
-roundRobin=com.zjr.jrrpc.loadbalancer.RoundRobinLoadBalancer
-random=com.zjr.jrrpc.loadbalancer.RandomLoadBalancer
-consistentHash=com.zjr.jrrpc.loadbalancer.ConsistentHashLoadBalancer
