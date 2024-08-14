@@ -49,6 +49,7 @@ JrRPC 框架
 3. 安装 Etcd[https://github.com/etcd-io/etcd/releases] 和 etcdkeeper[https://github.com/evildecay/etcdkeeper/] 并分别启动两个服务
 4. 先启动 provider，再启动 consumer
 5. 打开浏览器输入[http://127.0.0.1:8081/etcdkeeper/] ,可以查看注册的服务
+   ![image](https://github.com/user-attachments/assets/753a4dbe-79e1-4817-964b-7e04ac9d97ef)
 6. provider 和 consumer 的控制台都能看到 "zjr" 输出
 #### 方式二：将该框架运用到自己项目中
 1. 将项目克隆到本地
