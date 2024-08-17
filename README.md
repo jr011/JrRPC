@@ -2,7 +2,8 @@
 ## 项目介绍
 一款基于 Java + Etcd + Vert.x + 类 Dubbo 协议。开发者可以引入 Spring Boot Starter，通过注解和配置文件快速使用框架；还支持通过 SPI 机制动态扩展序列化器、负载均衡器、重试和容错策略等。同时也是学习 RPC 的良好示例。
 以下是 JRPC 的调用流程：
-![image](https://github.com/user-attachments/assets/bd9b5c1a-3a76-40d3-8ee8-f55ab9dd641b)
+![image](https://github.com/user-attachments/assets/9cf4a2c7-7325-4ac7-bb2e-8d1711d446c7)
+
 ## 功能
 ### 目录结构
 ```
